@@ -1,2 +1,2 @@
-const developMode = true;
+const developMode = false;
 export default developMode;
