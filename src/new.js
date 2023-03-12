@@ -1,1 +1,2 @@
-const count = 1;
+const count = 3;
+export default count;
