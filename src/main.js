@@ -6,5 +6,6 @@ import config from "./config";
 
 console.log(count);
 console.log(config);
+console.log("other");
 
 createApp(App).mount("#app");
